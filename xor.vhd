@@ -8,7 +8,7 @@ port (
 i_a, i_b : in std_logic;
 o_f : out std_logic);
 end xor;
-
+--komentaras
 -- the architecture
 architecture xor_arc of xor is
 begin
